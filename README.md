@@ -1,1 +1,2 @@
 Tech Connect Botswana is a community-driven initiative designed to spotlight tech professionals and projects, making it easier for employers and potential clients to find the right talent for their needs.
+The aim is to create visibility and collaboration without a single owner, taking lessons from other communities like skills ranker.
